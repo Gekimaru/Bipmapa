@@ -1,4 +1,4 @@
-# Nazwa projektu - Cusser
+# Nazwa projektu - Casser
 
 Szukanie świeżo założonych firm i sprawdzanie czy mają strony
 internetowe/ czy ich strony internetowe są słabe i można je poprawić
